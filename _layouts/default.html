@@ -6,5 +6,9 @@
 
     {{ content }}
   </div>
+  <script src="{{ "/js/highlight.pack.js" | prepend: site.baseurl }}"></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+  </script>
 </body>
 </html>
