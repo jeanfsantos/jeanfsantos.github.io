@@ -90,19 +90,10 @@ Quando a função `handleContentTable` é executado, e feito um limpo no conteú
       _todo.forEach(function(item){
         var frag = $.createDocumentFragment();
         var tr = $.createElement('tr');
-
-        var tdId = createCell(item.id);
-        tr.appendChild(tdId);
-
-        var tdTask = createCell(item.task);
-        tr.appendChild(tdTask);
-
-        var tdInputCheckbox = createCheckbox(item);
-        tr.appendChild(tdInputCheckbox);
-
-        var tdButtonRemove = createButtonRemove(item);
-        tr.appendChild(tdButtonRemove);
-
+        tr.appendChild(createCell(item.id));
+        tr.appendChild(createCell(item.task));
+        tr.appendChild(createCheckbox(item));
+        tr.appendChild(createButtonRemove(item));
         frag.appendChild(tr);
         $tbody.appendChild(frag);
       });
