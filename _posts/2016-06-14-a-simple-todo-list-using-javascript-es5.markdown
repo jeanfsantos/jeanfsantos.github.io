@@ -214,5 +214,4 @@ As funções `createCell`, `createCheckbox`, `createButtonRemove` todas elas ret
   </code>
 </pre>
 
-### Conclusão
-Bom galera esse foi meu primeiro post. Qualquer dúvida, crítica ou sugestão pode deixa um comentário ou fazer um pull request no [repositorio](https://github.com/jeanfsantos/jeanfsantos.github.io).
+Bom galera esse foi meu primeiro post. Qualquer dúvida, crítica ou sugestão pode deixa um comentário ou criar uma issue no [repositório](https://github.com/jeanfsantos/jeanfsantos.github.io).

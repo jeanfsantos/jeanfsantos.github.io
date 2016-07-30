@@ -59,4 +59,4 @@ E por fim criei um botão para limpar o localStorage todo e atualizar a tabela.
 
 Para quem quiser saber mais sobre essa API segue o link: [Storage](https://developer.mozilla.org/en-US/docs/Web/API/Storage)
 
-Bom galera qualquer dúvida, crítica ou sugestão pode deixa um comentário ou fazer um pull request no [repositorio](https://github.com/jeanfsantos/jeanfsantos.github.io).
+Bom galera qualquer dúvida, crítica ou sugestão pode deixa um comentário ou criar uma issue no [repositório](https://github.com/jeanfsantos/jeanfsantos.github.io).

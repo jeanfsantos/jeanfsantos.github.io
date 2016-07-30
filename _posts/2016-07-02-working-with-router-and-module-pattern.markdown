@@ -311,5 +311,4 @@ src/partials/add/index.js:
   </code>
 </pre>
 
-### Conclusão
-Bom galera qualquer dúvida, crítica ou sugestão pode deixa um comentário ou fazer um pull request no [repositório](https://github.com/jeanfsantos/jeanfsantos.github.io).
+Bom galera qualquer dúvida, crítica ou sugestão pode deixa um comentário ou criar uma issue no [repositório](https://github.com/jeanfsantos/jeanfsantos.github.io).
