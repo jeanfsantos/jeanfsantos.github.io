@@ -1,5 +1,5 @@
 ---
-title: A simple todo list using javascript es5
+title: Um simples todo list usando es5
 layout: post
 ---
 E ae galera, hoje quero mostra como construir um simples todo list usando somente javascript sem precisar de um framework angular, react, e outros.

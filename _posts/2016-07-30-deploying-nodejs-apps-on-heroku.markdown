@@ -1,5 +1,5 @@
 ---
-title: Deploying Node.js Apps on Heroku
+title: Fazendo deploy de uma aplicação node.js na Heroku
 layout: post
 ---
 E ae galera, hoje vamos fazer deploy da nossa aplicação todo-list na Heroku quem quiser conferir clica [aqui](https://todo-list-javascript.herokuapp.com).

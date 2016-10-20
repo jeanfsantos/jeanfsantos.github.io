@@ -1,5 +1,5 @@
 ---
-title: Persisting the data in localStorage
+title: Persistindo os dados no localStorage
 layout: post
 ---
 E ae galera, hoje quero mostrar como persistir dados no localStorage dando continuidade no [todo list](http://jeanfsantos.github.io/todo-list-javascript/public/) que implementamos.

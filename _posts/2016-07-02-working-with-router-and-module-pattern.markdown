@@ -1,5 +1,5 @@
 ---
-title: Working with router and module pattern
+title: Trabalhando com router e module pattern
 layout: post
 ---
 E ae galera, hoje vamos adicionar rotas e modularizar todo nosso código do todo-list, criaremos uma classe para manipular as rotas, quem quiser ver como ficou clica [aqui](https://github.com/jeanfsantos/jeanfsantos.github.io).
